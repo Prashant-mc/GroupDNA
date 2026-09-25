@@ -89,7 +89,11 @@ The final output presents a compact analytical report containing group statistic
 
 A screenshot of the final output is included below.
 
-<!-- Add the final GroupDNA output screenshot here -->
+<img width="1080" height="1200" alt="image" src="https://github.com/user-attachments/assets/486df9eb-60ab-46a1-90dc-ef646d711356" />
+
+
+<img width="1503" height="1336" alt="image" src="https://github.com/user-attachments/assets/892cd72d-1512-402c-a5b6-99aa9dd7d1e2" />
+
 
 ## Learning Outcome
 
